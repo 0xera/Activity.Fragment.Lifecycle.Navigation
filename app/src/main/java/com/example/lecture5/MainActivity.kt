@@ -1,7 +1,9 @@
 package com.example.lecture5
 
 import android.os.Bundle
+import android.view.LayoutInflater
 import android.view.View
+import android.view.ViewGroup
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.os.bundleOf
 import androidx.fragment.app.Fragment
@@ -75,12 +77,19 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-    class NewFragment : Fragment(R.layout.new_fragment) {
+    // предача верстки в конструктор
+    class SimpleFragment : Fragment(R.layout.fragment_simple) {
+
+        // создание в методе
+        override fun onCreateView(
+            inflater: LayoutInflater,
+            container: ViewGroup?,
+            savedInstanceState: Bundle?
+        ): View = inflater.inflate(R.layout.fragment_simple, container, false)
 
         override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
             super.onViewCreated(view, savedInstanceState)
-
-            // work with view
+            // работа с [view]
         }
 
 
@@ -90,7 +99,7 @@ class MainActivity : AppCompatActivity() {
             private const val PARAM_2 = "param2"
 
             fun newInstance(param1: Int, param2: String) =
-                NewFragment().apply {
+                SimpleFragment().apply {
                     arguments = bundleOf(
                         PARAM_1 to param1,
                         PARAM_2 to param2
