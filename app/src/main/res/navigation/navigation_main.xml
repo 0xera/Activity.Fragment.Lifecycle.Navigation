@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/navigation_main.xml">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation_main"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.lecture5.HomeFragment"
+        android:label="HomeFragment" />
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.example.lecture5.MapFragment"
+        android:label="MapFragment" />
+
+    <fragment
+        android:id="@+id/storageFragment"
+        android:name="com.example.lecture5.StorageFragment"
+        android:label="StorageFragment" />
 
 </navigation>
