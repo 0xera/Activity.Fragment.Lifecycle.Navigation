@@ -4,18 +4,15 @@
     android:id="@+id/navigation_main"
     app:startDestination="@id/navigation_home">
 
-    <fragment
-        android:id="@+id/navigation_home"
-        android:name="com.example.lecture5.HomeFragment"
-        android:label="HomeFragment" />
+    <include app:graph="@navigation/navigation_home" />
 
     <fragment
-        android:id="@+id/mapFragment"
+        android:id="@+id/fragment_map"
         android:name="com.example.lecture5.MapFragment"
         android:label="MapFragment" />
 
     <fragment
-        android:id="@+id/storageFragment"
+        android:id="@+id/fragment_storage"
         android:name="com.example.lecture5.StorageFragment"
         android:label="StorageFragment" />
 
