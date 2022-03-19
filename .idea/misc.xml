@@ -9,7 +9,11 @@
         <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/drawable/border_state_drawable.xml" value="0.2" />
         <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/drawable/divider_drawable.xml" value="0.1" />
         <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/drawable/ic_arrow_down_24.xml" value="0.244" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout-land/view_holder_activity_start_info.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/fragment_simple.xml" value="0.1157548125633232" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/new_fragment.xml" value="0.17617753623188406" />
         <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/view_holder_activity_info.xml" value="0.1" />
         <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/view_holder_activity_start_info.xml" value="0.2" />
         <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/view_holder_flag.xml" value="0.17916666666666667" />
