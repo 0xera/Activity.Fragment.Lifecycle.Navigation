@@ -7,12 +7,12 @@
     <include app:graph="@navigation/navigation_home" />
 
     <fragment
-        android:id="@+id/fragment_map"
+        android:id="@+id/navigation_map"
         android:name="com.example.lecture5.MapFragment"
         android:label="MapFragment" />
 
     <fragment
-        android:id="@+id/fragment_storage"
+        android:id="@+id/navigation_storage"
         android:name="com.example.lecture5.StorageFragment"
         android:label="StorageFragment" />
 
