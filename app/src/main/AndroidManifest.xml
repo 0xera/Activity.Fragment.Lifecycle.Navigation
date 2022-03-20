@@ -14,6 +14,7 @@
 
         <!--ручная обработка изменения конфигурации        -->
         <activity
+            android:persistableMode="persistAcrossReboots"
             android:name=".MainActivity"
             android:configChanges="orientation
             |screenSize

@@ -36,6 +36,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onSaveInstanceState(outState: Bundle, outPersistentState: PersistableBundle) {
         outPersistentState.putString("PersistKey", "PersistValue")
+        log("outPersistentState: $outPersistentState")
         super.onSaveInstanceState(outState, outPersistentState)
     }
 
