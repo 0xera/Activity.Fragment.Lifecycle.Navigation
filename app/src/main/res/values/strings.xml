@@ -11,4 +11,5 @@
     <string name="detach">detach</string>
     <string name="hide">hide</string>
     <string name="show">show</string>
+    <string name="add_to_backstack">addToBackStack</string>
 </resources>

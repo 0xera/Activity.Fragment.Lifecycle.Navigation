@@ -3,27 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/drawable/activity_info_background_drawble.xml" value="0.244" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/drawable/border_drawable.xml" value="0.1095" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/drawable/border_drawavle.xml" value="0.2315" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/drawable/border_state_drawable.xml" value="0.2" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/drawable/divider_drawable.xml" value="0.1" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/drawable/ic_arrow_down_24.xml" value="0.244" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout-land/view_holder_activity_start_info.xml" value="0.1" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/fragment_counter.xml" value="0.23007246376811594" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/fragment_home.xml" value="0.22395833333333334" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/fragment_map.xml" value="0.23007246376811594" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/fragment_one.xml" value="0.1" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/fragment_simple.xml" value="0.1157548125633232" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/fragment_storage.xml" value="0.23007246376811594" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/new_fragment.xml" value="0.17617753623188406" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/view_holder_activity_info.xml" value="0.1" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/view_holder_activity_start_info.xml" value="0.2" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/view_holder_flag.xml" value="0.17916666666666667" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/view_holder_task_info.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/menu/navigation_menu.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/gugaf/AndroidStudioProjects/Lecture5/app/src/main/res/layout/activity_main.xml" value="0.2" />
       </map>
     </option>
   </component>
